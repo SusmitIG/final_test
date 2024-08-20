@@ -1,0 +1,11 @@
+[ 2024-08-16 13:11:47,705 ] 22 root - INFO - Entered the data ingestion
+[ 2024-08-16 13:11:47,708 ] 25 root - INFO - Dataset read from csv as dataframe
+[ 2024-08-16 13:11:47,712 ] 32 root - INFO - Train-Test split initiated
+[ 2024-08-16 13:11:47,717 ] 36 root - INFO - Ingestion of data is completed
+[ 2024-08-16 13:11:47,720 ] 68 root - INFO - Read train-test data completed
+[ 2024-08-16 13:11:47,721 ] 70 root - INFO - Obtaining preprocessing object
+[ 2024-08-16 13:11:47,721 ] 42 root - INFO - numeric missing_value_imputation+scaling completed
+[ 2024-08-16 13:11:47,721 ] 50 root - INFO - categorical missing_value_imputation+ohe+scaling completed
+[ 2024-08-16 13:11:47,722 ] 83 root - INFO - applying preprocessing on training as well as test dataframe
+[ 2024-08-16 13:11:47,737 ] 100 root - INFO - Saved preprocessing object
+[ 2024-08-16 13:11:47,741 ] 33 root - INFO - Split train and test data

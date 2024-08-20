@@ -1,0 +1,13 @@
+prefix=/Users/susmit.gawade/Desktop/Final_test/venv
+exec_prefix=/Users/susmit.gawade/Desktop/Final_test/venv
+libdir=/Users/susmit.gawade/Desktop/Final_test/venv/lib
+sharedlibdir=/Users/susmit.gawade/Desktop/Final_test/venv/lib
+includedir=/Users/susmit.gawade/Desktop/Final_test/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

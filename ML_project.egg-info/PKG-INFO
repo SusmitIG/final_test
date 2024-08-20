@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: ML_project
+Version: 0.0.1
+Author: Sushmit
+Author-email: susmit.gawade@impactguru.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
+Requires-Dist: catboost
+Requires-Dist: xgboost
+Requires-Dist: dill
+Requires-Dist: flask
